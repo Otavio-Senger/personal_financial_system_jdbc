@@ -1,5 +1,5 @@
 # SISTEMA FINANCEIRO PESSOAL
-Programa criado para controle de receitas e despesas via terminal. Etapa 1 de um projeto de aprendizado maior divido em outras 3 etapas. Começando com banco de dados local e java puro e, posteriormente, será introduzido API REST (Spring boot) e, por fim, AWS.
+Programa criado para controle de receitas e despesas via terminal. Etapa 1 de um projeto de aprendizado maior divido em outras 4 etapas. Começando com banco de dados local e java puro e, posteriormente, será introduzido API REST (Spring boot) e, por fim, AWS.
 
 ## ÍNDICE
  - Técnologias Utilizadas
